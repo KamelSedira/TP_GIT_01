@@ -1,12 +1,11 @@
 
 **Premiere Partie**
 **Attentes par rapport à la formation**
-
 **Objectifs par rapport à la formation**
 
+**Organisation du dépôt git et modèles de branches**
 
 **Deuxième Partie**
-
 **Les Actions par rapport à la formation**
 
 - [ ] Initiation Linux
@@ -17,4 +16,6 @@
 - [ ] Exploitation Git
 - [ ] Exploitation GitHub
 - [ ] Langage Python
+
+**Commentaires**
 
