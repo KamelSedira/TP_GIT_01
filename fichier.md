@@ -4,6 +4,7 @@
 **Objectifs par rapport à la formation**
 
 **Organisation du dépôt git et modèles de branches**
+(en cours de dev)
 
 **Deuxième Partie**
 **Les Actions par rapport à la formation**
