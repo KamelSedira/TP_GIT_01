@@ -20,15 +20,22 @@
 
 **Les ressources qui vous aident dans votre parcours d'apprentissage (liste de liens, livres, documents, vidéos ...)**
 
-Videos Youtube :
-chaine 1
-chaine 2
-Autres Videos :
+##Videos Youtube :
+   1. chaine 1
+   1. chaine 2
+   1. chaine 3
 
-sites web :
+##Autres Videos :
+   1. chaine 1
+   1. chaine 2
+   1. chaine 3
 
-livres :
+##sites web :
 
+##livres :
+* Collection ENI
+* O'Reilly
+* Collection Eyrolles
 
 **Troisième Partie**
 **Mes Commentaires**
