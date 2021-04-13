@@ -8,6 +8,7 @@
 
 **Les Actions par rapport à la formation**
 
+<<<<<<< HEAD
 - [ ] Initiation Linux
 - [x] Reseau sous Linux
 - [x] Notions Avancées Admin Linux
@@ -18,6 +19,12 @@
 - [ ] Langage Python
 
 
+=======
+_Modification depuis github_ 
+
+
+ex :
+>>>>>>> a6fc9a302b020b8d25065c0db9c026227fbbefe9
 *Texte en italique*
 _Texte en italique_
 **Texte en gras**
